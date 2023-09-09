@@ -1,0 +1,1 @@
+![diagram](./dailytask.drawio.png)
